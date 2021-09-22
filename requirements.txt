@@ -1,0 +1,3 @@
+Amino.py
+googletrans
+samino
